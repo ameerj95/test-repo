@@ -1,3 +1,7 @@
 hello
 bye
+<<<<<<< HEAD
 ayooo
+=======
+yaoooooooh
+>>>>>>> beach
